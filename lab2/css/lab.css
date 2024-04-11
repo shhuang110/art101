@@ -7,3 +7,8 @@
     border: solid 1px #888;
     background-color: #DDD8C4;
   }
+
+  h1 {
+    color:blue;
+    font-size:250px;
+  }
