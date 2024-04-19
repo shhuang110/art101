@@ -1,0 +1,26 @@
+#my-portrait {
+    width: 500px
+}
+h1 {
+    border-top-style: dotted;
+    border-bottom-style: dotted;
+    font-family: cursive;
+    color:blueviolet
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(113, 0, 43);
+    font-size: 20px;
+}
+
+body {
+    background-color:rgb(255, 232, 244)
+}
+
+h2 {
+    font-family: cursive;
+    border-top-style: dotted;
+    border-bottom-style: dotted;
+    color: blueviolet;
+}

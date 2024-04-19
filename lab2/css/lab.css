@@ -4,11 +4,28 @@
 .minor-section {
     padding: 10px;
     margin-bottom: 10px;
-    border: solid 1px #888;
-    background-color: #DDD8C4;
+    border: solid 1px #d8ff8f;
+    background-color: #66d3dd;
   }
 
   h1 {
     color:blue;
     font-size:100px;
+    font-family: fantasy;
+  }
+
+  p{
+    font-family: "Impact";
+    text-indent: 20px;
+    margin-left: 10px;
+  }
+
+  #content {
+    background-color:darkmagenta;
+    width: 600px;
+    min-height: 200px;
+    padding: 12px;
+    margin: 450px;
+    border: solid, 1px blueviolet;
+    font-size: 20px;
   }
