@@ -3,7 +3,20 @@
 /* the period in a CSS selector selects an element by class, e.g., class="minor-section" */
 .minor-section {
     padding: 10px;
-    margin-bottom: 10px;
-    border: solid 1px #888;
-    background-color: #DDD8C4;
+    margin-bottom: 100px;
+    border: solid 1px #c90000;
+    background-color: #fb93fd;
+  }
+
+  h1 {
+    color: aquamarine;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100px;
+    
+  }
+
+  p {
+    font-size: 50px;
+    color: #c90000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
   }
