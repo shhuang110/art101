@@ -22,9 +22,9 @@ function sortingHat(str) {
   }
 }
 
-// Add an event listener to the button with id #button
+//event listener to the button with id #button
 document.getElementById('button').addEventListener('click', function() {
-  // Get the value of the input with id #input
+  // value of the input with id #input
   let name = document.getElementById('input').value;
   // Run sortingHat with the name and store the result in house
   let house = sortingHat(name);
