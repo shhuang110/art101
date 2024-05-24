@@ -1,0 +1,39 @@
+
+.special {
+  background-color: lavender;
+  border: dotted 50px red;
+  color: pink;
+  font-weight: bold;
+}
+
+/* Background style */
+body {
+  background-color: #f8f8f8; 
+  font-family: 'Arial', sans-serif; 
+  margin: 0; 
+  padding: 0; 
+}
+
+h1 {
+  color: #2c3e50; 
+  font-size: 36px; 
+  font-weight: bold; 
+  text-transform: uppercase; 
+  margin-top: 50px; 
+  text-align: center; 
+}
+
+p {
+  color: #34495e; 
+  font-size: 18px; 
+  line-height: 1.6; 
+  text-align: justify; 
+  margin: 0 auto; 
+  max-width: 600px; 
+  padding: 0 20px; 
+}
+
+p:hover {
+  color: #2980b9;
+  cursor: pointer; 
+}
